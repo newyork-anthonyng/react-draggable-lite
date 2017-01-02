@@ -1,0 +1,15 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+  "rules": {
+    "react/sort-comp": [1],
+    "class-methods-use-this": [1]
+  }
+}
